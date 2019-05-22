@@ -11,7 +11,7 @@ position: 2
 # Edit Events
 
 
-The edit events are ment to support the editing data process. They occur when the data in the __RadGridView__ is about to be edited or has been already edited by the user.
+The edit events are meant to support the editing data process. They occur when the data in the __RadGridView__ is about to be edited or has been already edited by the user.
 
 Currently the edit events occur on row and cell level. To get notified use the following events exposed by the __RadGridView__ control:
 
